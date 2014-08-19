@@ -14,9 +14,9 @@ ADClusterMapView is a drop-in subclass of MKMapView that displays and animates c
 
 ## Quick start
 
-1. Add the content of the ClusterMapView folder to your iOS project.
+1. Add the content of the `Maps` folder to your iOS project.
 2. Turn your MKMapView instance into a ClusterMapView.
-3. Set your annotations by calling `SetAnnotations:`. Do not use `AddAnnotation` or `AddAnnotations` as they are not supported yet.
+3. Set your annotations by calling `SetAnnotations`. Do not use `AddAnnotation` or `AddAnnotations` as they are not supported yet.
 
 ## Future Work
 
